@@ -12,8 +12,10 @@ A collection of C programs developed while learning and practising Operating Sys
 
 | Program | Description |
 |---|---|
-| `dev.c` | C programming exercise |
+| `fcfs.c` | First Come First Serve CPU Scheduling |
+| `sjf.c` | Shortest Job First CPU Scheduling |
 | `round_robin.c` | Round Robin CPU Scheduling |
+| `dev.c` | C programming exercise |
 
 ## Technologies Used
 
